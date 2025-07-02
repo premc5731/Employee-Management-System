@@ -92,15 +92,15 @@ CREATE TABLE employee (
 ---
 
 ## Screenshots
+**Startup Animation**  
+![Animation](Screenshots/Startup%20Animation.png)
 
-**Startup Animation**
-![Animation](Screenshots\Startup Animation.png)
+**Dashboard Window**  
+![Dashboard](Screenshots/dashboard.png)
 
-**Dashboard Window**
-![Dashboard](Screenshots\dashboard.png)
+**Add Employee Form**  
+![Add Employee](Screenshots/add_employee.png)
 
-**Add Employee Form**
-![Add Employee](Screenshots\add_employee.png)
 
 
 ---
