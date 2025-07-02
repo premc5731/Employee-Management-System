@@ -96,7 +96,7 @@ CREATE TABLE employee (
 <img src="Screenshots/startup_animation.png" width="400"/>
 
 **Dashboard Window**  
-<img src="Screenshots/dashboard.png" width="400"/>
+<img src="Screenshots/dash_board.png" width="400"/>
 
 **Add Employee Form**  
 <img src="Screenshots/add_employee.png" width="400"/>
