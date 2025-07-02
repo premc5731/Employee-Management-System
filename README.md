@@ -93,13 +93,14 @@ CREATE TABLE employee (
 
 ## Screenshots
 **Startup Animation**  
-![Animation](Screenshots/Startup%20Animation.png)
+<img src="Screenshots/startup_animation.png" width="400"/>
 
 **Dashboard Window**  
-![Dashboard](Screenshots/dashboard.png)
+<img src="Screenshots/dashboard.png" width="400"/>
 
 **Add Employee Form**  
-![Add Employee](Screenshots/add_employee.png)
+<img src="Screenshots/add_employee.png" width="400"/>
+
 
 
 
