@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="employee management system:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aeb4f165-c3bd-4a01-ae3b-44ffadbeae2d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/employee management system/employee/management/system/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/employee management system/employee/management/system/Login.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/employee management system/employee/management/system/Main_class.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/employee management system/employee/management/system/Main_class.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/employee/management/system/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/employee/management/system/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/employee/management/system/RemoveEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/employee/management/system/RemoveEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/employee/management/system/View_Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/employee/management/system/View_Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,12 +52,12 @@
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/YouTube Project/youtube/employee management system/employee management system",
     "onboarding.tips.debug.path": "C:/YouTube Project/youtube/employee management system/employee management system/src/Main.java",
-    "project.structure.last.edited": "Libraries",
+    "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main_class">
     <configuration name="DashBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="employee.management.system.DashBoard" />
       <module name="employee management system" />

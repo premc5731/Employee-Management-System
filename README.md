@@ -14,7 +14,7 @@
 - View Employee Details  
 - Update Existing Employee Information  
 - Remove Employees  
-- Interactive GUI 
+- Interactive GUI  
 
 ---
 
@@ -23,7 +23,7 @@
 - Java (Swing & AWT) — For GUI development  
 - JDBC (Java Database Connectivity) — For database operations  
 - MySQL — As the backend database  
-- IntelliJ IDEA 
+- IntelliJ IDEA  
 
 ---
 
@@ -31,7 +31,7 @@
 
 | File Name             | Description                                 |
 |-----------------------|---------------------------------------------|
-| `Main_class.java`     | Entry point for our project         |
+| `Main_class.java`     | Entry point for the project                 |
 | `Login.java`          | Handles user login                          |
 | `Dashboard.java`      | Main application window after login         |
 | `AddEmployee.java`    | Form to add a new employee                  |
@@ -56,9 +56,9 @@
 1. Clone the repository or download the source code.  
 2. Set up a MySQL database and update the connection details in `conn.java`:
    ```java
-   Connection c = DriverManager.getConnection("jdbc:mysql://localhost:3306/ems", "root", "password");
-3. Update the login details in the database using mysql terminal or workbench
-   
+   Connection c = DriverManager.getConnection("jdbc:mysql://localhost:3306/ems", "root", "your_password");
+   ```
+3. Add login credentials manually to the database using MySQL terminal or Workbench.
 4. Compile and run `Main_class.java` to start the splash screen.  
 5. After the splash, `Login.java` appears. Upon successful login, `Dashboard.java` (main app) is launched.
 
@@ -85,24 +85,40 @@ CREATE TABLE employee (
     designation varchar(40), 
     aadhar varchar(40), 
     empID varchar(40) 
-
 );
+```
+
+You may also create a `login` table to enable login authentication:
+
+```sql
+CREATE TABLE login (
+    username VARCHAR(40),
+    password VARCHAR(40)
+);
+
+INSERT INTO login VALUES ('admin', 'admin123');
 ```
 
 ---
 
-## Screenshots
-**Startup Animation**  
-<img src="Screenshots/startup_animation.png" width="400"/>
+## How to Use the JAR File
 
-**Dashboard Window**  
-<img src="Screenshots/dash_board.png" width="400"/>
+If you'd like to run the app directly without compiling the source code:
 
-**Add Employee Form**  
-<img src="Screenshots/add_employee.png" width="400"/>
+### 🔽 Step 1: Download the JAR File
 
+Download the JAR from the **Releases** section of this repository or from a shared link (if available).
 
+### ▶️ Step 2: Run the JAR File
 
+Open a terminal or command prompt where the JAR is located and run:
+
+```bash
+java -jar "employee-management-system.jar"
+```
+
+> ⚠️ Note: Use quotes if your JAR file name contains spaces.  
+> ✅ Java must be installed and added to your system PATH.
 
 ---
 
