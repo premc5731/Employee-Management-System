@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aeb4f165-c3bd-4a01-ae3b-44ffadbeae2d" name="Changes" comment="" />
+    <list default="true" id="aeb4f165-c3bd-4a01-ae3b-44ffadbeae2d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/employee management system/employee/management/system/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/employee management system/employee/management/system/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/employee management system/employee/management/system/Main_class.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/employee management system/employee/management/system/Main_class.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/employee/management/system/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/employee/management/system/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/employee/management/system/RemoveEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/employee/management/system/RemoveEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/employee/management/system/View_Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/employee/management/system/View_Employee.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +24,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -27,12 +37,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AddEmployee.executor": "Run",
+    "Application.DashBoard.executor": "Run",
     "Application.Main_class (1).executor": "Run",
     "Application.Main_class.executor": "Run",
+    "Application.RemoveEmployee.executor": "Run",
     "Application.Splash.executor": "Run",
+    "Application.View_Employee.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/YouTube Project/youtube/employee management system/employee management system",
     "onboarding.tips.debug.path": "C:/YouTube Project/youtube/employee management system/employee management system/src/Main.java",
@@ -41,7 +57,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main_class">
+  <component name="RunManager">
     <configuration name="DashBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="employee.management.system.DashBoard" />
       <module name="employee management system" />
