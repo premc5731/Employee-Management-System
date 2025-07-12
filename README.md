@@ -124,15 +124,15 @@ java -jar "employee-management-system.jar"
 ## Screenshots
 
 > Below are some key interfaces of the Employee Management System:
-
 ### Startup Animation  
-![Startup Animation](Screenshots/startup_animation.png)
+<img src="Screenshots/startup_animation.png" width="400"/>
 
 ### Dashboard View  
-![Dashboard](Screenshots/dash_board.png)
+<img src="Screenshots/dash_board.png" width="400"/>
 
 ### Add Employee Page  
-![Add Employee](Screenshots/add_employee.png)
+<img src="Screenshots/add_employee.png" width="400"/>
+
 
 ---
 
