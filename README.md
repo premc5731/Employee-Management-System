@@ -98,18 +98,17 @@ CREATE TABLE login (
 
 INSERT INTO login VALUES ('admin', 'admin123');
 ```
-
 ---
 
 ## How to Use the JAR File
 
 If you'd like to run the app directly without compiling the source code:
 
-### 🔽 Step 1: Download the JAR File
+### Step 1: Download the JAR File
 
 Download the JAR from the **Releases** section of this repository or from a shared link (if available).
 
-### ▶️ Step 2: Run the JAR File
+### Step 2: Run the JAR File
 
 Open a terminal or command prompt where the JAR is located and run:
 
@@ -117,12 +116,12 @@ Open a terminal or command prompt where the JAR is located and run:
 java -jar "employee-management-system.jar"
 ```
 
-> ⚠️ Note: Use quotes if your JAR file name contains spaces.  
-> ✅ Java must be installed and added to your system PATH.
+> Note: Use quotes if your JAR file name contains spaces.  
+> Java must be installed and added to your system PATH.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 > Below are some key interfaces of the Employee Management System:
 
