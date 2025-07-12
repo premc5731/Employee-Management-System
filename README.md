@@ -122,6 +122,21 @@ java -jar "employee-management-system.jar"
 
 ---
 
+## 📸 Screenshots
+
+> Below are some key interfaces of the Employee Management System:
+
+### 🧑‍💼 Add Employee Page  
+![Add Employee](Screenshots/add_employee.png)
+
+### 📊 Dashboard View  
+![Dashboard](Screenshots/dash_board.png)
+
+### 🚀 Startup Animation  
+![Startup Animation](Screenshots/startup_animation.png)
+
+---
+
 ## Contributors
 
 - Prem Choudhary
@@ -130,4 +145,4 @@ java -jar "employee-management-system.jar"
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
